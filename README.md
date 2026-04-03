@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System
+# 🎬 Movie Discovery Platform
 
 A **content-based Movie Recommendation System** built using **Python, Machine Learning, and Streamlit**.  
 This web application recommends movies similar to the one selected by the user and fetches real-time movie details using the **TMDB API**.
